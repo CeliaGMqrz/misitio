@@ -2,10 +2,10 @@
 
 /* Estilo para el cuerpo del HTML */
 body {
-  background-color: lightblue;
+  background-color: lightyellow;
 }
 
 /* Estilo para las etiquetas de tipo h1 */
 p {
-  color: blue;
+  color: red;
 }
